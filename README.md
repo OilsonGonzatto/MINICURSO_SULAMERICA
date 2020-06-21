@@ -1,6 +1,6 @@
-# ESTATÍSTICA BÁSICA PARA CIÊNCIAS DE DADOS
+# **ESTATÍSTICA BÁSICA PARA CIÊNCIAS DE DADOS**
 
-## MÓDULO I
+## **MÓDULO I**
 
 -	Idéias básicas, motivações e aplicações
 -	Estruturas de sumarização: medidas de posição, dispersão, agrupamento de dados
